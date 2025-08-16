@@ -18,6 +18,11 @@ Develop a **robust machine learning model** that:
 
 ---
 
+## Dataset
+[Download the dataset from Kaggle](https://www.kaggle.com/datasets/ajkj04/ccfd-dataset)
+
+---
+
 ## ✅ Proposed Solution
 
 The system follows a **supervised machine learning pipeline** with these key stages:
